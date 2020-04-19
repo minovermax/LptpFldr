@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd0f104a-1ad5-43e1-99c8-44cbb17627a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YKJV43DA40lIqvs7BAXGwTjzmg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SOUNGMIN_LEE\Desktop\prgrmng\DataStructures\AssignmentFiles\CarFinder" />
+      <recent name="C:\Users\SOUNGMIN_LEE\Desktop\prgrmng\DataStructures\AssignmentFiles\CarFinder\src\com\company" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CarFinder" />
+      <module name="CarFinder" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Task2Exercise" />
+      <module name="CarFinder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Task2Exercise" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd0f104a-1ad5-43e1-99c8-44cbb17627a8" name="Default Changelist" comment="" />
+      <created>1582685372069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582685372069</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="575" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1582857948733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="575" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582857948733" />
+    <state x="361" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582774997216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1582774997216" />
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1583351930973">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="246" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582923799866" />
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583351930973" />
+    <state width="1493" height="260" key="GridCell.Tab.0.center" timestamp="1583351930973">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="246" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582923799866" />
+    <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1583351930973" />
+    <state width="1493" height="260" key="GridCell.Tab.0.left" timestamp="1583351930973">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="246" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582923799866" />
+    <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1583351930973" />
+    <state width="1493" height="260" key="GridCell.Tab.0.right" timestamp="1583351930973">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="246" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582923799866" />
+    <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583351930973" />
+    <state width="1493" height="142" key="GridCell.Tab.1.bottom" timestamp="1582862554261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="142" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582862554261" />
+    <state width="1493" height="142" key="GridCell.Tab.1.center" timestamp="1582862554261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="142" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582862554261" />
+    <state width="1493" height="142" key="GridCell.Tab.1.left" timestamp="1582862554261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="142" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582862554261" />
+    <state width="1493" height="142" key="GridCell.Tab.1.right" timestamp="1582862554261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="142" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582862554261" />
+    <state x="279" y="56" key="SettingsEditor" timestamp="1582777803246">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582777803246" />
+    <state x="467" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1585854399156">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="467" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582921641191" />
+    <state x="467" y="249" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585854399156" />
+    <state x="203" y="54" key="new project wizard" timestamp="1585854454245">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="203" y="54" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1585854454245" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582858747678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582858747678" />
+  </component>
+</project>

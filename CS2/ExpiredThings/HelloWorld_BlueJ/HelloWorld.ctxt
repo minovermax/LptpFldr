@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=HelloWorld
+comment0.text=\n\ Description\:\ java\ file\ for\ project\ 1,\ displays\ 'hello,\ world'\ and\ future\ career\ explanation\n\ Author\:\ Soungmin\ Lee\n\ Date\:\ 8\ /\ 15\ /\ 2019\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

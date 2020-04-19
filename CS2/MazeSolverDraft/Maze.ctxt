@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Maze
+comment0.text=\n\ A\ class\ for\ Project\ 4,\ Maze\ Solver.\n\ Takes\ in\ a\ maze,\ and\ solves\ it\ using\ recursion.\n\ @author\ Soungmin\ Lee\n\ @version\ Nov,\ 18\n\n
+comment1.params=mazeIn
+comment1.target=Maze(char[][])
+comment1.text=\n\ The\ constructor;\ takes\ a\ maze\ as\ a\ parameter\ and\ sets\ initial\ variables.\n\ @param\ mazeIn\ The\ maze\ to\ be\ solved.\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ The\ toString()\ method.\ Makes\ the\ 2\ dimensional\ array\ and\ formats\ it.\n\ @return\ Returns\ a\ properly\ formatted\ maze.\n
+comment3.params=
+comment3.target=java.lang.String\ solver()
+comment3.text=\n\ The\ solver()\ method.\ Initiates\ the\ recursion\ method,\ solverRec()\n\ @return\ Returns\ a\ final\ path.\n
+comment4.params=row\ column
+comment4.target=void\ solverRec(int,\ int)
+comment4.text=\n\ The\ solverRec()\ method.\ Takes\ initial\ row\ and\ column,\ and\ sets\ the\ 'finalPath'\ and\ 'exploredMaze'\n\ @param\ row\ The\ row\ that\ the\ recursion\ starts.\n\ @param\ column\ The\ column\ that\ the\ recursion\ starts.\n
+comment5.params=row\ column
+comment5.target=boolean\ isOpen(int,\ int)
+comment5.text=\n\ The\ isOpen()\ method.\ Takes\ a\ certain\ row\ and\ column,\ then\ indicates\ if\ the\ next\ position\ is\ open.\n\ @param\ row\ The\ row\ checked.\n\ @param\ column\ The\ column\ checked.\n\ @return\ Returns\ true\ if\ open,\ false\ if\ closed\ (wall)\n
+numComments=6

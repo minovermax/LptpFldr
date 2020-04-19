@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PatientDriver
+comment0.text=\n\ Project\ 2\:\ Patient\ Class\n\ <p>\n\ Class\ containing\ the\ main\ function\ to\ activate\ the\ Patient\ class\n\ </p>\n\n\ @author\ Soungmin\ Lee\n\ @version\ Sept\ 5,\ 2019\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Instanciates\ a\ Patient\ object\ with\ user's\ inputs\ and\ also\ tests\ 3\ cases\n
+numComments=2

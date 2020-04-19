@@ -1,0 +1,27 @@
+Points      Item
+----------  --------------------------------------------------------------
+__15__ / 15  Style
+            + Code is indented correctly
+            + Methods should be no longer than 1 page
+            + Documentation: (written for another software developer)
+              * All source code files include Javadoc header block with description, @author, @version, etc.
+              * Javadoc (with block tags, for example @param, @return) before each method
+              * All non-trivial variables are commented
+              * Comments included before major portions of code
+__Compiles__ /     Compiles (-50% if it doesn't compile)
+__40__ / 40  Patient class design including: 
+            + Fields 
+            + Accessors 
+            + Mutators 
+            + this (keyword) 
+            + toString() method (including string concatenation and rounded numbers) 
+            + updateBMI() method 
+__15__ / 15  Test cases
+__15__ / 15  PatientDriver class design (including Scanner object)
+__13__ / 13  Correct output
+__2__ /  2  Completed rubric (estimates for each line including hours spent)
+
+__100__ /100  Total
+
+
+__6__  Approximate number of hours spent

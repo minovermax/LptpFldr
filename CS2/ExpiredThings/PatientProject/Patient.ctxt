@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Patient
+comment0.text=\n\ Project\ 2\:\ Patient\ Class\n\ <p>\n\ Class\ for\ calculating\ a\ patient's\ BMI\ and\ returning\ a\ final\ string\n\ </p>\n\ @author\ Soungmin\ Lee\n\ @version\ Sept\ 5,\ 2019\n
+comment1.params=firstName\ height\ weight
+comment1.target=Patient(java.lang.String,\ double,\ double)
+comment1.text=\n\ Creates\ a\ Patient\ object\n\ @param\ firstName\ The\ patient's\ first\ name.\n\ @param\ height\ The\ patient's\ height\ in\ inches.\n\ @param\ weight\ The\ patient's\ weight\ in\ pounds.\n
+comment2.params=
+comment2.target=double\ updateBMI()
+comment2.text=\n\ Calculates\ the\ patient's\ BMI\ (private)\n\ @return\ A\ double\ value\ of\ the\ patient's\ BMI\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ Returns\ a\ string\ containing\ overall\ information\ of\ the\ patient\n\ @return\ A\ string\ containing\ the\ patient's\ first\ name,\ height,\ weight.\n
+comment4.params=
+comment4.target=double\ getBMI()
+comment4.text=\n\ Returns\ the\ patient's\ BMI\n\ @return\ A\ double\ value\ containing\ the\ patient's\ BMI\n
+numComments=5

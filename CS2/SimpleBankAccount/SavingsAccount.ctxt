@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SavingsAccount
+comment0.text=\n\ SavingsAccount\ class,\ subclass\ of\ SimpleBankAccount\n\n\ @author\ Soungmin\ Lee\n\ @version\ 10/19/19\n
+comment1.params=balance\ interestRate
+comment1.target=SavingsAccount(double,\ double)
+comment2.params=
+comment2.target=void\ applyInterest()
+comment3.params=
+comment3.target=void\ print()
+comment4.params=someObject
+comment4.target=boolean\ equals(java.lang.Object)
+numComments=5

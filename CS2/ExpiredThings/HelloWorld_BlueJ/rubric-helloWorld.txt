@@ -1,0 +1,12 @@
+Points       Item
+----------   --------------------------------------------------------------
+__5__ /  5   Meaningful comments (comment header block and description of major portions of code)
+_10__ / 10   Line 1
+__5__ /  5   Line 2
+__5__ /  5   Line 3
+__2__ /  2   Completed rubric (estimates for each line including hours spent)
+
+__27__ / 27   Total
+
+
+__2__  Approximate number of hours spent

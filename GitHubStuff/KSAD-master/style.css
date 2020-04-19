@@ -1,0 +1,123 @@
+  body {
+    margin:0px;
+  }
+  a {
+    color: #818181;
+    text-decoration:none;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif; 
+  }
+  h1 { 
+    font-family: "Futura", "Trebuchet MS", Arial, sans-serif; 
+    font-size: 100px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 26.4px;
+
+    text-align: right;
+    margin-top: 60px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+  }
+  div {
+    box-sizing:content-box;
+  }
+  .logo {
+    color:white;
+  }
+  #shadow {
+    text-align: center;
+    box-shadow: inset 0px 13px 8px -10px #888;
+    background-color: #d8d8d8
+  }
+  .main {
+    background-color: white;
+    box-shadow: inset 0px 13px 8px -10px #888;
+    padding-bottom: 60%;
+    padding-left: 5%;
+    padding-right: 5%;
+    display: inline-block;
+  }
+
+  .about div {
+    border-top: 1px solid #898989;
+    border-bottom: 1px solid #898989;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif; 
+    font-size: 60px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: #636363;
+  }
+
+  #menu {
+    text-align: right;
+    font-size: 24px;
+    margin-right:28px;
+    font-family: "Futura";
+    padding-top: 10px;
+  }
+  #menu div {
+    display: inline-block;
+    margin:10px;
+  }
+  #banner {
+    padding-bottom: 600px;
+    padding-left:20px;
+    background: url('iphone.jpg');
+    background-size: cover;
+    display: grid;
+    grid-template-rows: 120px 150px;
+  }
+
+  .container {
+    max-width: 700px;
+    text-align: left;
+    font-size: 30px;
+    font-family: "Futura";
+    color: #636363;
+    margin-bottom: 100px;
+    margin-top: 100px;
+  }
+  p:first-letter {
+    font-size: 3em;
+    font-weight: bold;
+    font-family: "Futura"
+  }
+
+  .email {
+    text-align: center;
+    display: inline-block;
+    padding: 1em;
+    margin: 1em;
+    border-top: 1px solid #898989;
+    border-bottom: 1px solid #898989;
+    font-size: 20px;
+    font-family: "Futura", "Trebuchet MS", Arial, sans-serif; 
+    color: #363636;
+  }
+
+  .description img {
+    width: 250px;
+    height: 430px;
+  }
+
+  .description div{
+    font-size: 35px;
+    color: #636363;
+  }
+
+  .description {
+    text-align: center;
+  }
+
+  .appname {
+    font-size: 60px;
+    margin-top: 30px;
+    color: #3a3a3a;
+    font-family: "Futura";
+  }
+
+  .contact {
+    margin-top: 150px;
+    margin-bottom: 200px;
+  }

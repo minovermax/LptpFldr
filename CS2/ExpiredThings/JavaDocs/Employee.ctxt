@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Employee
+comment0.text=\ Represents\ an\ employee.\n\ @author\ Doug\ Lowe\n\ @author\ www.LoweWriter.com\n\ @version\ 1.5\n\ @since\ 1.0\n
+comment1.params=
+comment1.target=java.lang.String\ getLastName()
+comment1.text=\ Gets\ the\ employee\u2019s\ last\ name.\n\ @return\ A\ string\ representing\ the\ employee\u2019s\ last\n\ \ \ \ \ name.\n
+comment2.params=lastName
+comment2.target=void\ setLastName(java.lang.String)
+comment2.text=\ Sets\ the\ employee\u2019s\ last\ name.\n\ @param\ lastName\ A\ String\ containing\ the\ employee\u2019s\n\ \ \ \ \ last\ name.\n
+comment3.params=
+comment3.target=java.lang.String\ getFirstName()
+comment3.text=\ Gets\ the\ employee\u2019s\ first\ name.\n\ @return\ A\ string\ representing\ the\ employee\u2019s\ first\n\ \ \ \ \ name.\n
+comment4.params=firstName
+comment4.target=void\ setFirstName(java.lang.String)
+comment4.text=\ Sets\ the\ employee\u2019s\ first\ name.\n\ @param\ firstName\ A\ String\ containing\ the\n\ \ \ \ \ employee\u2019s\ first\ name.\n
+comment5.params=
+comment5.target=double\ getSalary()
+comment5.text=\ Gets\ the\ employee\u2019s\ salary.\n\ @return\ A\ double\ representing\ the\ employee\u2019s\ salary.\n
+comment6.params=salary
+comment6.target=void\ setSalary(double)
+comment6.text=\ Sets\ the\ employee\u2019s\ salary.\n\ @param\ lastName\ A\ double\ containing\ the\ employee\u2019s\n\ \ \ \ \ salary.\n
+numComments=7

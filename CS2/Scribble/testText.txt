@@ -1,0 +1,4 @@
+# Country_id	Population (2019)	Land Area (km^2)
+Afghanistan	38041754	652860
+Albania	2880917	27400
+Algeria	43053054	2381740

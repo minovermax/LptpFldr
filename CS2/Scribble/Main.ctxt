@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ This\ is\ the\ class\ for\ the\ 'Loan\ Info"\ assignment.\n\ @author\ Soungmin\ Lee\n\ @version\ Sept\ 29,\ 2019\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ b
+comment2.target=int\ mystery(int,\ int)
+numComments=3

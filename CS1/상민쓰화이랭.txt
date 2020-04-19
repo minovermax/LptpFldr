@@ -1,0 +1,132 @@
+### Strings05
+import string
+
+def goodPassword(password):
+    invalidChars = set(string.punctuation.replace("_", ""))
+
+    passList = list(password)
+
+    if any(char in invalidChars for char in passList) and any(char.islower() for char in passList) and any(char.isupper() for char in passList) and any(char.isdigit() for char in passList) and len(passList) >= 8:
+        return True
+    else:
+        return False
+
+
+### Strings06
+def isScrambled( stringA, stringB ):
+
+    listA = list(stringA.lower().replace(" ", ""))
+    listB = list(stringB.lower().replace(" ", ""))
+
+
+    counter = 0
+
+    check = True
+    
+    if len(listA) != len(listB):
+        return False
+
+    while (check == True) and (counter < len(listA)):
+
+        for i in range(len(listA)):
+            if listA[i] in listB:
+                check = True
+                counter = counter + 1
+
+            else:
+                return False
+    
+    return check
+
+isScrambled('ITruelyFailed', 'ITruelyWorked')
+
+
+### Strings07
+def firstMiddleLast( string ):
+
+    if len(string) % 2 == 0:
+        x = string[0]
+        y = string[int((len(string)/2-1)):int(len(string)/2+1)]
+        z = string[-1]
+
+    elif len(string) % 2 != 0:
+        x = string[0]
+        y = string[len(string)//2]
+        z = string[-1]
+    
+    word = x+y+z
+
+    return word
+
+
+### Strings08
+def splitAndSwap( string ):
+  
+    if (len(string) % 2 == 0):
+        x = string[0:(len(string)//2)]
+        y = string[(len(string)//2):]
+  
+    elif (len(string) % 2 != 0):
+        x = string[0:(len(string)//2)]
+        y = string[(len(string)//2+1):]
+  
+    word = y + x
+  
+    return word
+
+### Strings09
+def isPalindrome(phrase):
+    
+    x = ""
+    y = ""
+
+    for i in range(len(phrase)):
+        x = x + phrase[i]
+    
+    for u in range(len(phrase)-1, -1, -1):
+        y = y + phrase[u]
+    
+    x = x.replace(" ", "")
+    x = x.lower()
+
+    y = y. replace(" ", "")
+    y = y.lower()
+
+    if x == y:
+        return True
+
+    else:
+        return False
+
+print(isPalindrome('Eevee'))
+
+
+### Strings10
+def gradeDef(student):
+    if student >= 90:
+        print("Your letter grade is A")
+    elif student >= 80:
+        print("Your letter grade is B")
+    elif student >= 70:
+        print("Your letter grade is C")
+    elif student >= 60:
+        print("Your letter grade is D")
+    else:
+        print("Your letter grade is F")
+
+def main():
+    userInput = 8424
+    while not str(0) <= str(userInput) <= str(100):
+
+        userInput = input("Please enter a grade (between 0 and 100): ")
+        if not str(0) <= userInput[0] <= str(9):
+            print("Sorry, this program only accepts values between 0 and 100.")
+        elif not 0 <= int(userInput) <= 100:
+            print("Sorry, this program only accepts values between 0 and 100.")
+        else:
+            userInput = int(userInput)
+            gradeDef(userInput)
+            break
+
+
+main()

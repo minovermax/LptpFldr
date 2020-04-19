@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CheckingAccount
+comment0.text=\n\ CheckingAccount\ class,\ subclass\ of\ SimpleBankAccount\n\n\ @author\ Soungmin\ Lee\n\ @version\ 10/19/19\n
+comment1.params=balance
+comment1.target=CheckingAccount(double)
+comment2.params=checkNum\ amount
+comment2.target=boolean\ processCheck(int,\ double)
+comment3.params=
+comment3.target=void\ print()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=someObject
+comment5.target=boolean\ equals(java.lang.Object)
+numComments=6

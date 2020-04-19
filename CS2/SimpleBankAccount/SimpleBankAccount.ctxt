@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SimpleBankAccount
+comment0.text=\n\ Simple\ Bank\ Account,\ base\ class\ for\ CheckingAccount\ and\ SavingsAccount\n\n\ @author\ Soungmin\ Lee\n\ @version\ 10/19/119\n
+comment1.params=
+comment1.target=SimpleBankAccount()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ SimpleBankAccount\n
+comment2.params=amount
+comment2.target=void\ deposit(double)
+comment2.text=\n\ Add\ money\ to\ the\ balance\n\n\ @param\ \ amount\ the\ amount\ to\ deposit\n\ @return\ void\n
+comment3.params=amount
+comment3.target=boolean\ withdraw(double)
+comment3.text=\n\ Remove\ money\ from\ the\ balance\n\n\ @param\ \ amount\ the\ amount\ to\ withdraw\n\ @return\ true\ (success)\ or\ false\ (failure)\n
+comment4.params=
+comment4.target=double\ getBalance()
+comment4.text=\n\ Get\ the\ balance\n\n\ @return\ the\ balance\n
+comment5.params=
+comment5.target=void\ print()
+comment5.text=\n\ Display\ the\ balance\n
+numComments=6
